@@ -1,4 +1,13 @@
-### Hi there 👋
+### :grinning: Olá, meu nome é Matheus! :grinning:
+
+- Apaixonado por:
+  - Programação
+  - Machine Learning
+  - Data Science
+
+- Maiores Experiências:
+  - Java
+  - Python
 
 <!--
 **Mathvivas/Mathvivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
