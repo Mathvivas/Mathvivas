@@ -1,13 +1,13 @@
-### :grinning: Olá, meu nome é Matheus! :grinning:
+### :grinning: Olá, meu nome é Matheus:exclamation: :eight_spoked_asterisk: :stuck_out_tongue_winking_eye:
 
-- Apaixonado por:
-  - Programação
-  - Machine Learning
+- :sparkling_heart: Apaixonado por:
+  - Programação :computer:
+  - Machine Learning :robot:
   - Data Science
 
 - Maiores Experiências:
-  - Java
-  - Python
+  - Java :coffee:
+  - Python :snake:
 
 <!--
 **Mathvivas/Mathvivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
