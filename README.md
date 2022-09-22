@@ -4,7 +4,7 @@
   
   - :computer: Programação
   
-  - :robot: Machine Learning
+  - :robot: Artificial Intelligence
   
   - :chart_with_upwards_trend: Data Science
 
