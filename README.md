@@ -1,28 +1,44 @@
-# Hello There, I'm Matheus:exclamation: :stuck_out_tongue_winking_eye:
+# Hello There :eye::tongue::eye:
+<p align="center">
+  <img src="GithubBanner.gif"/>
+</p>
 
-- :green_heart: Enthusiast:
+<br>
+<br>
+
+**Currently focusing on Artificial Intelligence:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathvivas&repo=artificial-intelligence&show_owner=true)](https://github.com/Mathvivas/Artificial-Intelligence)
+
+<br>
+<br>
   
-  - :computer: Programming
+> :green_heart: ***Enthusiast:***
+
+  - [x] :computer: **Programming**
   
-  - :robot: Artificial Intelligence
+  - [x] :robot: **Artificial Intelligence**
   
-  - :chart_with_upwards_trend: Data Science
+  - [x] :chart_with_upwards_trend: **Data Science**
 
 ___________________
 
  <div>
   <a href="https://github.com/Mathvivas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathvivas&show_icons=true&bg_color=00ff00,000000,ff0055&title_color=ff5500&text_color=ffffff&hide_border=True&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Mathvivas&show_icons=true&bg_color=00ff00,000000,ff0055&title_color=ff5500&text_color=ffffff&hide_border=True&include_all_commits=true&count_private=true"/>
 
-  <br>
+<br>
+<br>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvivas&layout=compact&langs_count=7&bg_color=00ff00,000000,00ffff&title_color=ff5500&text_color=ffffff&hide_border=True"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvivas&langs_count=5&bg_color=00ff00,000000,00ffff&title_color=ff5500&text_color=ffffff&hide_border=True"/>
 </div>
   
   _________________
   
 <div style="display: inline_block"><br>
   <img align="center" alt="TensorFlow" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="PyTorch" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img align="center" alt="Jupyter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="Pandas" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/pandas/pandas-original.svg">
   <img align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
