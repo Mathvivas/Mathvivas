@@ -19,7 +19,28 @@
   
 > :book: ***About Me :***
 
-<div style="display: flex; padding-bottom: 20px" style="justify-content: center">
+
+<div align="center">
+  <span><img width="350px" alt="Image for Artificial Intelligence" src="https://media.giphy.com/media/xT0xelDjQHpNSFuJji/giphy.gif"/></span>
+  <p><b>Artificial Intelligence Enthusiast</b></p>
+</div>
+
+<br>
+
+<div align="center">
+  <span><img width="350px" alt="Image for Data" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif"/></span>
+  <p><b>Love data</b></p>
+</div>
+
+<br>
+
+<div align="center">
+  <span><img width="350px" alt="Image for Programming" src="https://media.giphy.com/media/Yq9II2L9ruykH3fRMy/giphy.gif"/></span>
+  <p><b>I'm always trying out new languages and trying to improve the ones I have already learned</b></p>
+</div>
+
+
+<!-- <div style="display: flex; padding-bottom: 20px" style="justify-content: center">
   <span><img width="250px" alt="Image for Artificial Intelligence" src="https://media.giphy.com/media/xT0xelDjQHpNSFuJji/giphy.gif"/></span>
   <span style="padding-left: 20px; padding-top: 14%"><b>Artificial Intelligence Enthusiast</b></span>
 </div>
@@ -32,7 +53,7 @@
 <div style="display: flex" style="justify-content: center">
   <span><img width="350px" alt="Image for Programming" src="https://media.giphy.com/media/Yq9II2L9ruykH3fRMy/giphy.gif"/></span>
   <span style="padding-left: 20px; padding-top: 10%"><b>I'm always trying out new languages and trying to improve the ones I have already learned</b></span>
-</div>
+</div> -->
 
 
 ___________________
