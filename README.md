@@ -1,6 +1,6 @@
-# Hello There :eye::tongue::eye:
 <p align="center">
-  <img src="GithubBanner.gif"/>
+  <img src="Banner.gif"/
+  width="400">
 </p>
 
 <br>
@@ -8,29 +8,43 @@
 
 **Currently focusing on Artificial Intelligence:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathvivas&repo=artificial-intelligence&show_owner=true)](https://github.com/Mathvivas/Artificial-Intelligence)
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathvivas&repo=artificial-intelligence&show_owner=true&bg_color=00ff00,000000,ff0055&title_color=ff5500&text_color=ffffff&hide_border=True)](https://github.com/Mathvivas/Artificial-Intelligence)
+
+</div>
 
 <br>
 <br>
   
-> :green_heart: ***Enthusiast:***
+> :book: ***About Me :***
 
-  - [x] :computer: **Programming**
-  
-  - [x] :robot: **Artificial Intelligence**
-  
-  - [x] :chart_with_upwards_trend: **Data Science**
+<div>
+  <span><img height="200px" src="https://media.giphy.com/media/xT0xelDjQHpNSFuJji/giphy.gif"/></span>
+  <p><b>Artificial Intelligence Enthusiast</b></p>
+</div>
+
+<div align="right">
+  <span><img height="145px" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif"/></span>
+  <p><b>Love data</b></p>
+</div>
+
+<div>
+  <span><img height="114px" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif"/></span>
+  <p><b>I'm always trying out new languages and trying to improve the ones I have already learned</b></p>
+</div>
+
 
 ___________________
 
- <div>
+ <div align="center">
   <a href="https://github.com/Mathvivas">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Mathvivas&show_icons=true&bg_color=00ff00,000000,ff0055&title_color=ff5500&text_color=ffffff&hide_border=True&include_all_commits=true&count_private=true"/>
 
 <br>
 <br>
     
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvivas&langs_count=5&bg_color=00ff00,000000,00ffff&title_color=ff5500&text_color=ffffff&hide_border=True"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvivas&langs_count=5&bg_color=00ff00,000000,ff0055&title_color=ff5500&text_color=ffffff&hide_border=True"/>
 </div>
   
   _________________
