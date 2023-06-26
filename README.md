@@ -21,21 +21,21 @@
 
 
 <div align="center">
-  <span><img width="350px" alt="Image for Artificial Intelligence" src="https://media.giphy.com/media/xT0xelDjQHpNSFuJji/giphy.gif"/></span>
+  <span><img width="350px" alt="Image for Artificial Intelligence" src="cyberpunk_robot_in_a_futuristic_neon_environment__4k__ultrarealism__uhd.jpg"/></span>
   <p><b>Artificial Intelligence Enthusiast</b></p>
 </div>
 
 <br>
 
 <div align="center">
-  <span><img width="350px" alt="Image for Data" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif"/></span>
+  <span><img width="350px" alt="Image for Data" src="binary_data.jpg"/></span>
   <p><b>Love data</b></p>
 </div>
 
 <br>
 
 <div align="center">
-  <span><img width="350px" alt="Image for Programming" src="https://media.giphy.com/media/Yq9II2L9ruykH3fRMy/giphy.gif"/></span>
+  <span><img width="350px" alt="Image for Programming" src="into_the_unknown__4k__ultrarealism__uhd.jpg"/></span>
   <p><b>I'm always trying out new languages and trying to improve the ones I have already learned</b></p>
 </div>
 
