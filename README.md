@@ -1,7 +1,34 @@
-<p align="center">
-  <img src="Banner.gif"/
-  width="400">
-</p>
+# Hello There! :metal:
+
+<div align="center">
+  <span><img width="350px" alt="Image for Artificial Intelligence" src="DALL·E 2024-03-08 17.43.20 - Design a cyberpunk building for the company 'Matheus', with the company name written in neon, viewed from below. The building should embody the cyberp.png"/></span>
+  <p><b>Welcome to My Datacenter</b></p>
+</div>
+
+<br>
+<br>
+  
+> :book: ***About Me :***
+
+
+<div align="center">
+  <span><img width="350px" alt="Image for Artificial Intelligence" src="DALL·E 2024-03-08 17.29.13 - Visualize artificial neurons sending electric numbers to each other. The image should depict a network of futuristic neurons, designed with a high-tec.png"/></span>
+  <p><b>Artificial Intelligence Enthusiast</b></p>
+</div>
+
+<br>
+
+<div align="center">
+  <span><img width="350px" alt="Image for Data" src="DALL·E 2024-03-08 17.35.25 - Create an amazing looking 4K UHD image that represents the concept of _data_. The image should visually capture the essence of data in a digital age, .png"/></span>
+  <p><b>Love data</b></p>
+</div>
+
+<br>
+
+<div align="center">
+  <span><img width="350px" alt="Image for Programming" src="DALL·E 2024-03-08 17.32.41 - Create a 4K ultra-realistic image of an unknown universe with a more menacing black hole at its center. The scene should depict an expansive cosmic la.png"/></span>
+  <p><b>I'm always trying out new languages and trying to improve the ones I have already learned</b></p>
+</div>
 
 <br>
 <br>
@@ -12,31 +39,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathvivas&repo=artificial-intelligence&show_owner=true&bg_color=00ff00,000000,ff0055&title_color=ff5500&text_color=ffffff&hide_border=True)](https://github.com/Mathvivas/Artificial-Intelligence)
 
-</div>
-
-<br>
-<br>
-  
-> :book: ***About Me :***
-
-
-<div align="center">
-  <span><img width="350px" alt="Image for Artificial Intelligence" src="cyberpunk_robot_in_a_futuristic_neon_environment__4k__ultrarealism__uhd.jpg"/></span>
-  <p><b>Artificial Intelligence Enthusiast</b></p>
-</div>
-
-<br>
-
-<div align="center">
-  <span><img width="350px" alt="Image for Data" src="binary_data.jpg"/></span>
-  <p><b>Love data</b></p>
-</div>
-
-<br>
-
-<div align="center">
-  <span><img width="350px" alt="Image for Programming" src="into_the_unknown__4k__ultrarealism__uhd.jpg"/></span>
-  <p><b>I'm always trying out new languages and trying to improve the ones I have already learned</b></p>
 </div>
 
 
@@ -71,8 +73,10 @@ ___________________
   _________________
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="TensorFlow" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="PyTorch" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img align="center" alt="OpenCV" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/opencv/opencv-original.svg" />
+  <img align="center" alt="Scikitlearn" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/scikitlearn/scikitlearn-original.svg" />
+  <img align="center" alt="TensorFlow" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Jupyter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="Pandas" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/pandas/pandas-original.svg">
   <img align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
